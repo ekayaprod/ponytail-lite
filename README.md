@@ -15,7 +15,7 @@
 
 "Ponytail Lite" is [Ponytail](https://github.com/DietrichGebert/ponytail) without the plugin madness.
 
-Not to be confused with Ponytail's `lite` mode. This is a separate one-file version.
+Do not confuse this with Ponytail's `lite` mode. This is a separate one-file version.
 
 Just copy [`AGENTS.md`](AGENTS.md) into the place your agent reads instructions. That's it. No plugin, hooks, commands, MCP, or mode switching.
 
@@ -33,7 +33,7 @@ AGENTS.md
 
 Could you just copy `AGENTS.md` from [Ponytail](https://github.com/DietrichGebert/ponytail)? Yes... But:
 
-The `AGENTS.md` here is not a byte-for-byte copy. It is an opinionated cleanup of the original: same lazy senior dev idea, less plugin baggage, and guardrails rewritten for people who just want the file.
+This `AGENTS.md` is not a byte-for-byte copy. It provides an opinionated cleanup of the original: the same lazy senior dev idea, less plugin baggage, and updated guardrails for people who just want the file.
 
 ## Install
 
@@ -67,7 +67,7 @@ Delete the file you copied.
 
 If you pasted the text into a global instructions file, delete that paragraph.
 
-No leftover mode flag, statusline entry, and hidden MCP server still thinking about your dependency graph.
+This leaves no leftover mode flags, statusline entries, or hidden MCP servers thinking about your dependency graph.
 
 ## What It Does
 
